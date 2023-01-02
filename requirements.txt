@@ -1,0 +1,9 @@
+Numpy
+TensorFlow
+Keras
+Sklearn
+Pickle
+PyDotPlus
+GraphViz
+Python
+Tkinter
